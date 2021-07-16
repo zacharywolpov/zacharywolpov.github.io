@@ -11,10 +11,16 @@
     background-color: #0099FF;
   }
   body {
+    background-color: #CBC3E3;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 16px;
     vertical-align: bottom;
     color: #505050;
+  }
+  .center {
+    margin: auto;
+    width: 65%;
+    padding: 10px;
   }
   hr{
     padding: 0px;
